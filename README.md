@@ -1,4 +1,4 @@
-# 🍽 Wedding Invitation
+# 💍 Wedding Invitation
 
 ## Demo
 [https://wedding-jihye.herokuapp.com/](https://wedding-jihye.herokuapp.com/)<br><br>
